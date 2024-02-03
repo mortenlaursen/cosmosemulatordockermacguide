@@ -1,4 +1,4 @@
-# Azure Cosmos DB Emulator Setup Guide Using `cosmos-emulator.sh` for Intel Mac
+# Azure Cosmos DB Emulator Guide for Intel Mac
 
 This guide provides step-by-step instructions on how to set up the Azure Cosmos DB Emulator in a Docker container using the `cosmos-emulator.sh` script.
 
